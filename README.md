@@ -80,13 +80,3 @@ docker-compose exec web python manage.py dbfill
 ```sh
 http://localhost/admin
 ```
-
-## :bust_in_silhouette: Авторы проекта 
-
-### :small_orange_diamond: Влад Перепечко _(Vlad Vi. Perepechko)_
-```html
-e-mail: perepechcko.vlad@ya.ru
-```
-```html
-https://github.com/Amaterasq
-```
